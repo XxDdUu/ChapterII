@@ -1,4 +1,3 @@
-
 def average(numlist):
     avg = sum(numlist) / len(numlist)
     return avg
